@@ -1,6 +1,6 @@
-# Hi, I'm [Ekene Okonkwo] 👋
+# Hi, I'm Ekene Okonkwo 👋
 
-I'm a Data Scientist based in the EU with experience in machine learning and data analysis.
+I'm a Data Scientist based in Germany.
 
 ### 🔧 Skills
 
@@ -17,6 +17,4 @@ I'm a Data Scientist based in the EU with experience in machine learning and dat
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ### 📫 Contact
-
-* Email: [kenwhite247@yahoo.com](mailto:kenwhite247@yahoo.com)
 * Github: https://github.com/ken1711
