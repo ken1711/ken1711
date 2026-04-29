@@ -19,3 +19,4 @@ I'm a Data Scientist based in the EU with experience in machine learning and dat
 ### 📫 Contact
 
 * Email: [kenwhite247@yahoo.com](mailto:kenwhite247@yahoo.com)
+* Github: https://github.com/ken1711
