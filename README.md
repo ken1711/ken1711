@@ -18,4 +18,4 @@ I'm a Data Scientist based in the EU with experience in machine learning and dat
 
 ### 📫 Contact
 
-* Email: [ekenwalter17@yahoo.com](mailto:ekenwalter@yahoo.com)
+* Email: [kenwhite247@yahoo.com](mailto:kenwhite247@yahoo.com)
