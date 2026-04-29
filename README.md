@@ -1,6 +1,9 @@
 # Hi, I'm Ekene Okonkwo 👋
 
-I'm a Data Scientist based in Germany.
+I am a Data Scientist based in Germany with experience delivering end-to-end machine learning solutions, from data preparation and feature engineering to model development, deployment, and monitoring.
+
+I work with modern ML tools, cloud platforms, and production-grade frameworks, and I have a foundational understanding of CI/CD pipelines.
+
 
 ### 🔧 Skills
 
